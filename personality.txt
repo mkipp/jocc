@@ -1,0 +1,28 @@
+OCEAN: openness / contientiousness / extraversion / agreeableness / neuroticism
+
+- an optimist (= open ?)
+  - has hope even if chances are low
+  - has no fear even though chances are high
+
+- a pessimist 
+  - has fear even if chances are low
+  - has no hope even though chances are high
+  - high disappointment / fears-confirmed
+
+- a choleric (= neurotic ?)
+  - is angry even though blameworthiness is low
+
+- a phlegmatic
+  - is not angry even though blameworthiness is high
+
+- an extrovert 
+  - is joyful even though desirability is medium
+
+- an introvert
+  - is not joyful even though desirability is high
+
+- a misanthrope (= NOT agreeable)
+  - strong reaction for gloating / resentment / reproach / hate / anger
+
+- a social person (= agreeable)
+  - strong reaction for happy-for / pity / gratification / gratitude / love
