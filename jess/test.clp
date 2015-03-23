@@ -1,8 +1,8 @@
 ;; ***********************************************************************
 ;; OCC Emotion Computation TEST
 ;;
-;; (c) 2009 Michael Kipp, DFKI
-;; E-Mail: mich.kipp@googlemail.com
+;; (c) 2009 Michael Kipp
+;; E-Mail: michael.kipp@hs-augsburg.de
 ;; ***********************************************************************
 
 (printout t "*** OCC TEST ***" crlf)
