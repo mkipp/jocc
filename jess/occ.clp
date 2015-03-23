@@ -14,8 +14,8 @@
 ;; PERSONALITY:
 ;; Currently, personality is modelled globally with a single fact
 ;;
-;; (c) 2009 Michael Kipp, DFKI
-;; E-Mail: mich.kipp@googlemail.com
+;; (c) 2009 Michael Kipp
+;; E-Mail: michael.kipp@hs-augsburg.de
 ;; ***********************************************************************
 
 ;; ********* DATA STRUCTURES
